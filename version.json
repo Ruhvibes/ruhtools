@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
+  "versionCode": 16,
   "versionName": "1.0",
   "apk": "https://github.com/Ruhvibes/ruhtools/releases/download/v1/RuhTools.apk",
-  "notes_hi": "Naya update: 44 tools - sab kuchh!",
-  "notes_en": "New update: 44 tools - sab kuchh!"
+  "notes_hi": "Apna CDN: libraries ab online se load hongi",
+  "notes_en": "Own CDN: libraries now load online"
 }
